@@ -1,4 +1,5 @@
 teks.txt
 index.html
 teks2.txt
-/temp
+temp/
+!test4.txt
